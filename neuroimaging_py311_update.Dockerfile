@@ -146,11 +146,7 @@
 #ENV PATH=$FREESURFER_HOME/bin:$PATH
 #
 #
-## Source the FSL configuration file/freesurfer setup and set environment variables
-##COPY entrypoint.sh /opt/entrypoint.sh
-##RUN chmod +x /opt/entrypoint.sh
-##ENTRYPOINT ["/opt/entrypoint.sh"]
-#
+
 ################################################################# BELOW IS FIXING LIBRARY ISSUES FOR DOCKER IMAGE  ########################################################################
 #
 ## Copy the pre-downloaded multiarch-support .deb package into the container
