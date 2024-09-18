@@ -5,6 +5,7 @@
 echo "Checking for updates to the Docker image..."
 #docker pull wangzx94/neuroimaging_py311_update:latest
 docker pull image_name:latest
+
 docker run --rm \
     -v /PATH/TO/SCRIPT:/scripts \
     -v /PATH/TO/DATAÍ:/data \
