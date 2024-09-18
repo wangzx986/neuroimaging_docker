@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+(Optional)
 # Always pull the latest image from Docker Hub, regardless of what's locally stored
 echo "Checking for updates to the Docker image..."
 #docker pull wangzx94/neuroimaging_py311_update:latest
