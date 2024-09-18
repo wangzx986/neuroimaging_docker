@@ -5,4 +5,4 @@ This docker image has a non-root-user, also has conda environment (python3.11 in
 The docker image download address is here:
 https://hub.docker.com/repository/docker/wangzx94/neuroimaging_py311_update/general
 
-Or docekr pull wangzx94/neuroimaging_py311_update:latest
+Or docker pull wangzx94/neuroimaging_py311_update:latest
